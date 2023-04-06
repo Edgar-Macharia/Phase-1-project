@@ -8,3 +8,8 @@ The app displays the word's definition, phonetics, and audio pronunciation
 The app also displays synonyms and related words of the searched word
 Users can listen to the audio pronunciation of the searched word by clicking on the audio button
 Users can clear the search bar and reset the app by clicking on the clear button
+
+API Used
+This dictionary app uses the DictionaryAPI to retrieve the data for the searched word.
+
+
