@@ -5,14 +5,17 @@ This is a simple dictionary web application built with HTML, CSS, and JavaScript
 Features
 
 Search for a word by entering it in the search bar and clicking on the search button
-The app displays the word's definition, phonetics, and audio pronunciation
-The app also displays synonyms and related words of the searched word
-Users can listen to the audio pronunciation of the searched word by clicking on the audio button
-Users can clear the search bar and reset the app by clicking on the clear button
+The app displays at least two of the word's definitions, it's phonetics, and audio pronunciation.
+The app also displays synonyms and related words of the searched word.
+Users can listen to the audio pronunciation of the searched word by clicking on the audio button.
+Users can clear the search bar and reset the app by clicking on the clear button.
 
 API Used
 
 This dictionary app uses the DictionaryAPI to retrieve the data for the searched word.
+
+All interactions between the client and the API are handled asynchronously.
+Then uses JSON as the communication format.
 
 
 How to Run
@@ -31,6 +34,7 @@ screenshots
 <img width="718" alt="Screenshot 2023-04-06 at 22 39 37" src="https://user-images.githubusercontent.com/126578269/230480443-4186aa4f-0f97-43de-a843-bd27cb6ac72d.png">
 
 <img width="869" alt="Screenshot 2023-04-06 at 22 37 49" src="https://user-images.githubusercontent.com/126578269/230480514-4c8a6c62-fe26-4873-a7bf-0d723e6ae124.png">
+
 
 demo
 
