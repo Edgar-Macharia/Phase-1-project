@@ -25,13 +25,21 @@ To run the app locally, follow these steps:
    
 You can also visit the live demo of the app at [https://github.com/EdMash00/Phase-1-project]
 
-
 screenshots
 
 
+<img width="718" alt="Screenshot 2023-04-06 at 22 39 37" src="https://user-images.githubusercontent.com/126578269/230480443-4186aa4f-0f97-43de-a843-bd27cb6ac72d.png">
+
+<img width="869" alt="Screenshot 2023-04-06 at 22 37 49" src="https://user-images.githubusercontent.com/126578269/230480514-4c8a6c62-fe26-4873-a7bf-0d723e6ae124.png">
+
+demo
+
+
+https://user-images.githubusercontent.com/126578269/230480789-034dbe3a-431f-4b61-a859-760721b37f19.mov
 
 
 
+https://user-images.githubusercontent.com/126578269/230481077-aac32286-90ee-44d2-9f50-2585bb8725ff.mov
 
 
 
