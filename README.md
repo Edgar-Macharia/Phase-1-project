@@ -13,3 +13,10 @@ API Used
 This dictionary app uses the DictionaryAPI to retrieve the data for the searched word.
 
 
+How to Run
+To run the app locally, follow these steps:
+
+    Clone the repository or download the zip file.
+    Navigate to the root folder of the project.
+    Open the index.html file in your browser.
+   
