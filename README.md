@@ -25,3 +25,20 @@ To run the app locally, follow these steps:
    
 You can also visit the live demo of the app at [https://github.com/EdMash00/Phase-1-project]
 
+
+screenshots
+
+
+
+
+
+
+
+
+Copyright (c)
+
+ 2023
+ 
+By Edgar Macharia
+
+Licensed 
