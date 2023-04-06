@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+   <link rel="stylesheet" href="style.css">
+    <title>English Dictionary</title>
+</head>
+<body>
+    <div class="container"> 
+        <h1>Dictionary</h1>
+        <div id="search">
+            <input type="text" placeholder="Search Word" id="text" >
+            <button class="clear">X</i></button>
+            <button class="search-btn">Search</button>
+        </div>
+        <ul id="content">
+            <li class="text">
+                <div id="word">
+                    <p></p>
+                    <span></span>
+                </div>
+                <button id="audio"> <i class="fa-solid fa-volume-high"></i></button>
+            </li>
+
+            <div>
+                <ul>
+                 <li class="meaning">
+                     <div class="details">
+                          <p><b>Meaning</b></p>
+                          <span></span>
+                     </div>
+                 </li> 
+                 <li class="meaning2">
+                    <div class="details">
+                         <p><b>Meaning 2</b></p>
+                         <span></span>
+                    </div>
+             </li>
+        
+                 <li class="synonyms">
+                         <div class="details">
+                                 <p>Synonyms</p>
+                              <div class="list">
+                                   <span></span>
+                                    <span></span>
+                             </div>
+                         </div>
+                    </li>
+                </ul>
+            </div>
+        </ul>
+    </div>
+  
+
+    <script src="/index.js"></script>
+</body>
+</html>
