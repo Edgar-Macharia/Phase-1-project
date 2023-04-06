@@ -20,3 +20,5 @@ To run the app locally, follow these steps:
     Navigate to the root folder of the project.
     Open the index.html file in your browser.
    
+You can also visit the live demo of the app at [https://github.com/EdMash00/Phase-1-project]
+
