@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: rgb(30, 26, 26);
+}
+.container{
+    background-color: azure;
+    border-radius: 10px;
+    width: 450px;
+    padding: 25px 25px 40px;
+
+}
+#content.hidden{
+    display: none;
+}
+#search{
+    position: relative;
+    margin: 20px;
+}
+.search-btn{
+   position: relative;
+   background-color: rgb(51, 17, 153);
+   background-size: cover;
+   color: rgb(187, 198, 198);
+
+}
+#search input{
+    height: 50px;
+    width: 100%;
+    outline: none;
+}
+.clear{
+    position: absolute;
+    top: 15%;
+    right: 10px;
+}
+
+#content li{
+    display: flex;
+    padding-left: 10px;
+    border-radius: 10px;
+    border-bottom: 1px solid #ccc;
+    margin: 15px;
+    justify-content: space-between;
+}
+.meaning{
+    font-style:italic;
+    border-left: 3px solid cornflowerblue;
+    border-right: 3px solid cornflowerblue;
+}
+.meaning2{
+    font-style: italic;
+    border-left: 3px solid cornflowerblue;
+    border-right: 3px solid cornflowerblue;
+}
+.synonyms{
+    text-align: center;
+    overflow: auto;
+    
+}
